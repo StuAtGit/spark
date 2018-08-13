@@ -2,6 +2,12 @@
 [![](https://img.shields.io/github/license/perwendel/spark.svg)](./LICENSE)
 [![](https://img.shields.io/maven-central/v/com.sparkjava/spark-core.svg)](http://mvnrepository.com/artifact/com.sparkjava/spark-core)
 
+About this fork
+==============================================
+The intention of this fork is to track upstream + the RouteOverview PR from ericfilakowski.
+I don't intend on adding additional functionality to this fork, other than outstanding PRs.
+And hope to retire it, as soon as the Route Overview PR is merged.
+
 Spark - a tiny web framework for Java 8
 ==============================================
 
